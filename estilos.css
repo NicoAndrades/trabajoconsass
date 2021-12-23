@@ -120,7 +120,7 @@ height: 17rem;
 }
 .Placas h2{
     color: rgba(255, 217, 0, 0.664);
-    font-family: familia de fuentes: 'Anton', sans-serif;
+    font-family:'Anton', sans-serif;
     font-size: 3rem;
     text-align: center;
     margin: 5% 5%;
@@ -137,7 +137,7 @@ height: 17rem;
 
 .Rigs h2{
     color: rgba(255, 217, 0, 0.664);
-    font-family: familia de fuentes: 'Anton', sans-serif;
+    font-family:'Anton', sans-serif;
     font-size: 3rem;
     text-align: center;
     margin: 5% 5%;
@@ -158,22 +158,14 @@ height: 17rem;
     background-color:black;
     color: white;
     font-size: 150%;
-    font-family:familia de fuentes: 'Anton', sans-serif; 
+    font-family:'Anton', sans-serif; 
 }
 .Datos p{
     font-size: 120%;
     color: rgb(0, 0, 0);
     background-color:rgb(64, 165, 64);
 }
-.redes{
-    margin: 0%;
-    width: 100%;
-    max-width: 1200px;
-    margin: 20% 0% 0% 0%;
-    display: grid;
-    grid-template-columns: repeat(5,1fr);
-    grid-gap: 50px;
-}
+
 
 .sociales img{
     width: 10%;
