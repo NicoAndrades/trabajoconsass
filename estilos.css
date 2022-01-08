@@ -189,3 +189,43 @@ height: 17rem;
     text-align: center;
     border: 2px solid;
 }
+
+.redes{
+    display: grid;
+    grid-template-columns: 300px 300px;
+    width: 800px;
+    height: 600px;
+    background-color: black;
+    color: rgb(64, 165, 64) ;
+margin: auto;
+}
+.redes h3{
+    margin: 5% 0%;
+}
+.redes__sociales{
+    margin: 20% 10% 20% 40%; 
+}
+.redes img{
+    width: 180%;
+    height: 40%;
+}
+.boton {
+    width: 200px;
+    background-color: white;
+    border-radius: 15px;
+    border: 3px solid;
+}
+.boton--enviar {
+    background-color: rgb(47, 202, 47);
+    color: black;
+}
+
+.boton--aceptar {
+    background-color: rgb(47, 202, 47);
+    color: black;
+}
+
+.boton--cancelar{
+    background-color: rgb(47, 202, 47);
+    color: black;
+}
