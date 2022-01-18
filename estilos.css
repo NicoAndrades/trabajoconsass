@@ -11,31 +11,31 @@ body{
 
 /* NAV */
 .header__menu{
-    display: flex;
     background-color: black;
     font-family: 'Oswald', sans-serif;
     border: solid 0.1rem #000;
     margin: 0%;
+    margin-top: 3rem;
 }
 .header__menu h1{
     color: white;
-    display: flex;
-    float: left;
-    margin: 1.5rem 0rem 1.5rem 7rem;
+    /* display: flex; */
+    /* float: left; */
+    /* margin: 1.5rem 0rem 1.5rem 7rem */
 }
 .header__menu img{
-    width: 3%;
-    height: 3%;
-    margin: 2% 0% 0% 0%;
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: white;
 }
 .header__menu ul{
-    display: flex;
     list-style: none;
     margin: 0%;
 }
 .header__menu li{
     font-size: 1.2rem;
-    margin: 2rem 1rem 2rem 7.5rem;
+    /* margin: 2rem 1rem 2rem 7.5rem; */
 }
 .header__menu a{
     text-decoration: none;
