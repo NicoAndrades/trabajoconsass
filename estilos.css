@@ -180,7 +180,7 @@ height: 17rem;
 }
 .grid-placas{
     display: grid;
-    grid-template-columns: 400px 240px 400px;
+    grid-template-columns: 300px 140px 300px;
     justify-content: center;
 }
 .grid-placas div{
@@ -192,21 +192,18 @@ height: 17rem;
 
 .redes{
     display: grid;
-    grid-template-columns: 300px 300px;
-    width: 800px;
+    grid-template-columns: 200px 200px;
+    width: 400px;
     height: 600px;
     background-color: black;
     color: rgb(64, 165, 64) ;
 margin: auto;
 }
-.redes h3{
-    margin: 5% 0%;
-}
 .redes__sociales{
     margin: 20% 10% 20% 40%; 
 }
 .redes img{
-    width: 180%;
+    width: 100%;
     height: 40%;
 }
 .boton {
